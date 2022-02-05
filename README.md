@@ -1,4 +1,4 @@
-# excel-on-CRUD
+# CRUD-on-excel
 Implement CRUD operations on Excel(Project in Progress)
 - Create new Notebook
 - Update new sheets in the Notebook
